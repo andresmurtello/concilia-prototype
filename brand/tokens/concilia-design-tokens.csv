@@ -1,0 +1,12 @@
+category,token,value,usage
+brand,navyPrimary,#00185B,"Wordmark, headings"
+brand,navyTop,#032A78,Icon background gradient start
+brand,navyDeep,#02173E,Icon background gradient end
+brand,cyan,#19D3FB,"Accent dot, pills, interactive accents"
+brand,aqua,#63F5E4,Highlight within the mark
+brand,electricBlue,#0B63FF,Inner tech accent
+brand,tagline,#6E7FA6,Tagline and tertiary text
+gradient,primaryMark,#16C8FF → #27D9FB → #8AF3D8,Main C gradient
+gradient,iconBackground,#032A78 → #02173E,Icon background
+typography,ui,Inter,Main UI font
+typography,display,Inter Display,Display font
