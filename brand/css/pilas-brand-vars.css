@@ -1,0 +1,17 @@
+:root {
+  --pilas-indigo: #1E2A78;
+  --pilas-blue-vivo: #2563EB;
+  --pilas-mint-aqua: #2ED4B7;
+  --pilas-gris-nube: #E8ECF2;
+  --pilas-coral: #FF6B6B;
+  --pilas-white: #FFFFFF;
+  --pilas-charcoal: #20242C;
+  --color-primary: var(--pilas-indigo);
+  --color-primary-alt: var(--pilas-blue-vivo);
+  --color-accent: var(--pilas-mint-aqua);
+  --color-surface: var(--pilas-white);
+  --color-surface-soft: var(--pilas-gris-nube);
+  --color-attention: var(--pilas-coral);
+  --text-primary: var(--pilas-indigo);
+  --text-on-dark: var(--pilas-white);
+}

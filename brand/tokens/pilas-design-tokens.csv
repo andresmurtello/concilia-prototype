@@ -1,0 +1,20 @@
+group,token,value
+brand,indigo,#1E2A78
+brand,blueVivo,#2563EB
+brand,mintAqua,#2ED4B7
+brand,grisNube,#E8ECF2
+brand,coral,#FF6B6B
+brand,white,#FFFFFF
+brand,charcoal,#20242C
+semantic,primary,#1E2A78
+semantic,primaryAlt,#2563EB
+semantic,accent,#2ED4B7
+semantic,surface,#FFFFFF
+semantic,surfaceSoft,#E8ECF2
+semantic,attention,#FF6B6B
+semantic,textPrimary,#1E2A78
+semantic,textOnDark,#FFFFFF
+product,name,Pilas
+product,tagline,"Tu plata, a tiempo"
+product,descriptor,"Tu vida financiera, en movimiento"
+status,source,Reconstructed brand package based on approved board

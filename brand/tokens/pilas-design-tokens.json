@@ -1,0 +1,29 @@
+{
+  "brand": {
+    "indigo": "#1E2A78",
+    "blueVivo": "#2563EB",
+    "mintAqua": "#2ED4B7",
+    "grisNube": "#E8ECF2",
+    "coral": "#FF6B6B",
+    "white": "#FFFFFF",
+    "charcoal": "#20242C"
+  },
+  "semantic": {
+    "primary": "#1E2A78",
+    "primaryAlt": "#2563EB",
+    "accent": "#2ED4B7",
+    "surface": "#FFFFFF",
+    "surfaceSoft": "#E8ECF2",
+    "attention": "#FF6B6B",
+    "textPrimary": "#1E2A78",
+    "textOnDark": "#FFFFFF"
+  },
+  "product": {
+    "name": "Pilas",
+    "tagline": "Tu plata, a tiempo",
+    "descriptor": "Tu vida financiera, en movimiento"
+  },
+  "status": {
+    "source": "Reconstructed brand package based on approved board"
+  }
+}
